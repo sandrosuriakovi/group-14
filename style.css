@@ -1,0 +1,13 @@
+.disco{
+background-color: violet;
+border: 5px;
+width: 200px;
+height: 200px;
+}
+
+.disco:hover{
+background-color: aqua;
+transform:rotate(45px);
+
+
+}
